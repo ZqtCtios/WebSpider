@@ -1,0 +1,4 @@
+from bs4 import BeautifulSoup
+import requests
+urls=['http://kaoyan.eol.cn/shiti/shuxue/201605/t20160512_1397213.shtml','http://kaoyan.eol.cn/shiti/shuxue/201605/t20160512_1397242.shtml','http://kaoyan.eol.cn/shiti/shuxue/201605/t20160512_1397369.shtml','http://kaoyan.eol.cn/shiti/shuxue/201605/t20160513_1397524.shtml','http://kaoyan.eol.cn/shiti/shuxue/201605/t20160513_1397524.shtml','http://kaoyan.eol.cn/shiti/shuxue/201605/t20160513_1397705.shtml','http://kaoyan.eol.cn/shiti/shuxue/201605/t20160513_1397775.shtml','http://kaoyan.eol.cn/shiti/shuxue/201605/t20160516_1398260.shtml','http://kaoyan.eol.cn/shiti/shuxue/201605/t20160516_1398298.shtml','http://kaoyan.eol.cn/shiti/shuxue/201605/t20160516_1398367.shtml','http://kaoyan.eol.cn/shiti/shuxue/201605/t20160516_1398413.shtml','http://kaoyan.eol.cn/shiti/shuxue/201605/t20160517_1398795.shtml']
+print(len(urls))
