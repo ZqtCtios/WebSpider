@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af01cf1e-1676-4a1e-bce5-e216ebfd5902" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../zz/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/组卷网.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloadImg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/findPaper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬虫教学/P1/demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python爬虫教学/P1/demo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬虫教学/P2/demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python爬虫教学/P2/demo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬虫教学/P3/demo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python爬虫教学/P3/demo3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lmsq/lmsq.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lmsq/lmsq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lmsq/mail.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lmsq/mail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lmsq/qh.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lmsq/qh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pixiv/pixiv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pixiv/pixiv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhihu/shentu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../zhihu/shentu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhihu/t.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../zhihu/t.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhihu/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../zhihu/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhihu/zhihu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../zhihu/zhihu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhihu/zhihushoucang.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../zhihu/zhihushoucang.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhihu/知乎小姐姐/dir.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../zhihu/知乎小姐姐/dir.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhihu/知乎小姐姐/xjj.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../zhihu/知乎小姐姐/xjj.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../哔哩哔哩/bilibili.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../哔哩哔哩/bilibili.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../哔哩哔哩/bilibili_rank.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../哔哩哔哩/bilibili_rank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../哔哩哔哩/genxin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../哔哩哔哩/genxin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多玩王者荣耀评论/douwan.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../多玩王者荣耀评论/douwan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter/getChapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter/getChapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/getImg.py" beforeDir="false" afterPath="$PROJECT_DIR$/../class/getImg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/getclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/../class/getclass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/getclass2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../class/getclass2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/getmsg.py" beforeDir="false" afterPath="$PROJECT_DIR$/../class/getmsg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paper/getHomeWork.py" beforeDir="false" afterPath="$PROJECT_DIR$/../paper/getHomeWork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paper/getPaper.py" beforeDir="false" afterPath="$PROJECT_DIR$/../paper/getPaper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paper/getPaperToProblem.py" beforeDir="false" afterPath="$PROJECT_DIR$/../paper/getPaperToProblem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/buqiu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/buqiu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/getAll.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/getAll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/getAns.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/getAns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/getImg.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/getImg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/getQusetion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/getQusetion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/getTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/getTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/getUrl.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/getUrl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/getknowledge.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/getknowledge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/getsource.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/getsource.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/getsource2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/getsource2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/guess.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/guess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/mkdp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/mkdp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/qingli.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/qingli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/splite.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/splite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/tooSmall.py" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/tooSmall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/findrelationship.py" beforeDir="false" afterPath="$PROJECT_DIR$/findrelationship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../真题/down.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../真题/down.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../豆瓣/douban.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../豆瓣/douban.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../豆瓣/getNew.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../豆瓣/getNew.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../豆瓣/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../豆瓣/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../豆瓣/xinpian.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../豆瓣/xinpian.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Application.PaperShowView[(]</find>
+      <find>:</find>
+      <find>133168</find>
+      <find>jsonData</find>
+      <find>print</find>
+      <find>find('http') &gt; 0</find>
+      <find>:</find>
+      <find>scrapId</find>
+      <find>pi</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>find('http') == 0</replace>
+      <replace>':'</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/new.py" />
+        <option value="$PROJECT_DIR$/findPaper.py" />
+        <option value="$PROJECT_DIR$/downloadImg.py" />
+        <option value="$PROJECT_DIR$/download.py" />
+        <option value="$PROJECT_DIR$/new2.py" />
+        <option value="$PROJECT_DIR$/img.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectId" id="1mxYfpEzLvDIfXOlzlbZvvqWyH7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="组卷网" type="b2602c69:ProjectViewProjectNode" />
+              <item name="组卷网" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RunManager" selected="Python.findProblem">
+    <configuration name="download" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="组卷网" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="findProblem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="组卷网" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/findProblem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="img" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="组卷网" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/img.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="组卷网" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="组卷网" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.findProblem" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.img" />
+        <item itemvalue="Python.new2" />
+        <item itemvalue="Python.download" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af01cf1e-1676-4a1e-bce5-e216ebfd5902" name="Default Changelist" comment="" />
+      <created>1567235037210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567235037210</updated>
+      <workItem from="1567235039506" duration="24792000" />
+      <workItem from="1567346140687" duration="14000" />
+      <workItem from="1567391480480" duration="2315000" />
+      <workItem from="1567412869939" duration="2440000" />
+      <workItem from="1567432855658" duration="597000" />
+      <workItem from="1567439775745" duration="3941000" />
+      <workItem from="1567461893945" duration="1117000" />
+      <workItem from="1567522281773" duration="5100000" />
+      <workItem from="1567579851691" duration="98000" />
+      <workItem from="1567610659448" duration="122000" />
+      <workItem from="1567738538489" duration="2306000" />
+      <workItem from="1567757504235" duration="22000" />
+      <workItem from="1610436816263" duration="3719000" />
+      <workItem from="1610504050996" duration="4653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42864000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28434506" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32871288" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32970297" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32970297" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new.py</url>
+          <line>160</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new.py</url>
+          <line>127</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/findPaper.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/download.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/download.py</url>
+          <line>156</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/findProblem.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$new.coverage" NAME="new Coverage Results" MODIFIED="1567441978137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$downloadImg.coverage" NAME="downloadImg Coverage Results" MODIFIED="1567462620904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$download.coverage" NAME="download Coverage Results" MODIFIED="1567527340718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$new2.coverage" NAME="new2 Coverage Results" MODIFIED="1567739027872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$findPaper.coverage" NAME="findPaper Coverage Results" MODIFIED="1567442489304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$img.coverage" NAME="img Coverage Results" MODIFIED="1567756425987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$test.coverage" NAME="test 覆盖结果" MODIFIED="1610449701783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$findProblem.coverage" NAME="findProblem 覆盖结果" MODIFIED="1610509306099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///anaconda3/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/findrelationship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-593">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/lib/python3.7/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="146" selection-start-line="146" selection-end-line="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/lib/python3.7/site-packages/pymysql/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/lib/python3.7/site-packages/pymysql/converters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="87" column="49" selection-end-line="184" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/findPaper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2835">
+          <caret line="197" selection-start-line="197" selection-end-line="197" />
+          <folding>
+            <element signature="e#94#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="162" selection-start-line="162" selection-end-line="190" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="97" selection-start-line="97" selection-end-line="111" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12615">
+          <caret line="841" column="12" selection-start-line="841" selection-start-column="12" selection-end-line="841" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/downloadImg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="e#94#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="67" column="38" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
+          <folding>
+            <element signature="e#2382#2393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
